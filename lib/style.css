@@ -1,0 +1,146 @@
+.specstittle{
+  text-align: center;
+}
+
+.Web_Tittle{
+  color: white;
+  text-align: center;
+}
+
+.TP1{
+  color: white;
+}
+
+.idgaf{
+  text-align: left;
+}
+
+.idgaf2{
+  text-align: left;
+}
+
+* {
+        margin: 0;
+        padding: 0;
+      }
+      .imgbox {
+        display: grid;
+        height: 100%;
+      }
+      .imagen1 {
+        max-width: 100%;
+        max-height: 100vh;
+        margin: auto;
+      }
+
+      .imagen2 {
+        max-width: 100%;
+        max-height: 100vh;
+        margin: auto;
+      }
+
+      .imagen3 {
+        max-width: 100%;
+        max-height: 100vh;
+        margin: auto;
+      }
+
+      .imagen4 {
+        max-width: 100%;
+        max-height: 100vh;
+        margin: auto;
+      }
+
+      .imagen5 {
+        max-width: 100%;
+        max-height: 100vh;
+        margin: auto;
+      }
+
+      .imagen6 {
+        max-width: 100%;
+        max-height: 200px;
+        margin: auto;
+      }
+
+      .imagen7 {
+        max-width: 100%;
+        max-height: 200px;
+        margin: auto;
+      }
+
+      .imagen8 {
+        max-width: 100%;
+        max-height: 150px;
+        margin: auto;
+      }
+
+      .imagen9 {
+        max-width: 100%;
+        max-height: 150px;
+        margin: auto;
+      }
+
+      .imagen10 {
+        max-width: 100%;
+        max-height: 150px;
+        margin: auto;
+      }
+
+      .imagen11 {
+        max-width: 100%;
+        max-height: 100px;
+        margin: auto;
+      }
+
+      .imagen12 {
+        max-width: 100%;
+        max-height: 100px;
+        margin: auto;
+      }
+
+      .imagen13 {
+        max-width: 100%;
+        max-height: 100px;
+        margin: auto;
+      }
+
+      .imagen14 {
+        max-width: 100%;
+        max-height: 100px;
+        margin: auto;
+      }
+
+      .imagen15 {
+        max-width: 100%;
+        max-height: 100px;
+        margin: auto;
+      }
+
+      .imagen16 {
+        max-width: 100%;
+        max-height: 100px;
+        margin: auto;
+      }
+
+      .imagen17 {
+        max-width: 100%;
+        max-height: 100px;
+        margin: auto;
+      }
+
+      .imagen18 {
+        max-width: 100%;
+        max-height: 100px;
+        margin: auto;
+      }
+
+      .imagen19 {
+        max-width: 100%;
+        max-height: 100px;
+        margin: auto;
+      }
+
+      .D1{
+        background-color: rgb(100,100,100);
+      }
